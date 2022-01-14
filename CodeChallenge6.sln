@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestDuplicateSubstring", "LongestDuplicateSubstring\LongestDuplicateSubstring.csproj", "{2C073227-66AF-4AF1-A030-FCF4540A59A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairDistance", "PairDistance\PairDistance.csproj", "{2643E4CF-743F-4EC9-B7E3-58748968906B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validparentheses", "Validparentheses\Validparentheses.csproj", "{F4576AE9-482A-4337-95B2-72ED3508BF3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C073227-66AF-4AF1-A030-FCF4540A59A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C073227-66AF-4AF1-A030-FCF4540A59A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C073227-66AF-4AF1-A030-FCF4540A59A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C073227-66AF-4AF1-A030-FCF4540A59A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2643E4CF-743F-4EC9-B7E3-58748968906B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2643E4CF-743F-4EC9-B7E3-58748968906B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2643E4CF-743F-4EC9-B7E3-58748968906B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2643E4CF-743F-4EC9-B7E3-58748968906B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4576AE9-482A-4337-95B2-72ED3508BF3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4576AE9-482A-4337-95B2-72ED3508BF3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4576AE9-482A-4337-95B2-72ED3508BF3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4576AE9-482A-4337-95B2-72ED3508BF3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
